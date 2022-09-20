@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/logo.png</file>
+        <file>UI/btn_close_1.png</file>
+        <file>UI/bg.png</file>
+        <file>UI/company_logo.png</file>
+    </qresource>
+</RCC>
